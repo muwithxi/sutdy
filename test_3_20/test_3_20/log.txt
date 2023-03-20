@@ -1,0 +1,10 @@
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=0
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=1
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=2
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=3
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=4
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=5
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=6
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=7
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=8
+file:f:\´úÂëÑµÁ·2010\test_3_20\test_3_20\test.c line:23 date:Mar 20 2023 time:09:18:51 i=9
